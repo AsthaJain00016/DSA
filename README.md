@@ -1,2 +1,2 @@
-# DSA
-Learning Data structures and algorithms from YouTube course by Rohit Negi 
+#System Design
+Learning system design course frome Aditya tandon and Rohit Negi 
